@@ -1,7 +1,7 @@
 ---@class Palette
 local ret = {
-  gray1 = "#080808",
-  gray2 = "#191919",
+  gray1 = "#050505",
+  gray2 = "#121212",
   gray3 = "#2a2a2a",
   gray4 = "#444444",
   gray5 = "#555555",
@@ -12,12 +12,12 @@ local ret = {
   gray10 = "#f1f1f1",
   white = "#ffffff",
 
-  fg = "#cccccc",
-  bg = "#121212",
+  fg = "#eeeeee",
+  bg = "#000000",
   glow = "#1bfd9c",
 
-  blue1 = "#b2d8d8",
-  blue2 = "#66b2b2",
+  blue1 = "#8cf8f7",
+  blue2 = "#a6dbff",
 
   -- NOTE: kept as a tribute to lackluster
   lack = "#708090",
